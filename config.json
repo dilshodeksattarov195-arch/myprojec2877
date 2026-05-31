@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercave",
+        "uuid": 16971423,
+        "checksum": "il0uql"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
